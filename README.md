@@ -13,7 +13,7 @@ This program will help you to delete an TikTok account by the fact that it conta
 ## 🟢 GET THE TOOL
 <p align="center"> 
   <b>Join our telegram and get the tool:</b><br>
-  <a href="https://tinyurl.com/y6ynfujd"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+  <a href="https://tinyurl.com/y6ynfujd"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>  
 
 ---
